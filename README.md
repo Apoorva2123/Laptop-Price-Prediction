@@ -69,6 +69,9 @@ The laptop dataset is well-suited for this problem because:
 * Correlation analysis using Pearson correlation
 * Heatmap visualization for numerical features
 
+### 4. Feature Engineering
+
+
 
 
 
