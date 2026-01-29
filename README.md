@@ -70,6 +70,10 @@ The laptop dataset is well-suited for this problem because:
 * Heatmap visualization for numerical features
 
 ### 4. Feature Engineering
+* Created `ppi` feature to capture display sharpness
+* Log-transformed target variable (`Price`) to reduce skewness
+* Selected high-impact numerical features:
+  * RAM, Weight, Touchscreen, IPS, PPI, HDD, SSD
 
 
 
