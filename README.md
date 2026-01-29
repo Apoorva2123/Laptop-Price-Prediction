@@ -18,6 +18,8 @@ The laptop dataset is well-suited for this problem because:
 * Checked for missing values and duplicate rows
 * Dropped unnecessary index column (`Unnamed: 0`)
 
+### 2. Data Cleaning
+#### RAM and Weight
 
 
 
