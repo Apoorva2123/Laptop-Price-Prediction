@@ -56,6 +56,9 @@ The laptop dataset is well-suited for this problem because:
 * Extracted GPU brand from text
 * Removed irrelevant GPU information
 
+#### Operating System
+
+
 
 
 
