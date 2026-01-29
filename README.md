@@ -23,6 +23,17 @@ The laptop dataset is well-suited for this problem because:
 * Removed units (`GB`, `kg`) from `Ram` and `Weight`
 * Converted `Ram` to integer and `Weight` to float
 
+#### Screen Resolution
+* Extracted touchscreen information from `ScreenResolution`
+* Created binary features:
+  * `Touchscreen` (1 if touchscreen, else 0)
+  * `Ips` (1 if IPS display, else 0)
+* Split screen resolution into `X_res` and `Y_res`
+* Converted resolutions to integers
+* Computed **PPI (Pixels Per Inch)** using resolution and screen size
+* Dropped redundant columns (`ScreenResolution`, `Inches`, `X_res`, `Y_res`)
+
+
 
 
 
