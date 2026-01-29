@@ -57,6 +57,12 @@ The laptop dataset is well-suited for this problem because:
 * Removed irrelevant GPU information
 
 #### Operating System
+* Grouped OS into categories:
+  * Windows
+  * Mac
+  * Others / Linux / No OS
+* Dropped original OS column
+
 
 
 
