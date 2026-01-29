@@ -64,6 +64,10 @@ The laptop dataset is well-suited for this problem because:
 * Dropped original OS column
 
 ### 3. Exploratory Data Analysis (EDA)
+* Distribution analysis of price and log-transformed price
+* Bar plots for categorical features vs price
+* Correlation analysis using Pearson correlation
+* Heatmap visualization for numerical features
 
 
 
