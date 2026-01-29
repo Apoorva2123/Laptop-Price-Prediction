@@ -20,6 +20,9 @@ The laptop dataset is well-suited for this problem because:
 
 ### 2. Data Cleaning
 #### RAM and Weight
+* Removed units (`GB`, `kg`) from `Ram` and `Weight`
+* Converted `Ram` to integer and `Weight` to float
+
 
 
 
