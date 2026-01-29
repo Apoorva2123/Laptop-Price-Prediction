@@ -41,6 +41,9 @@ The laptop dataset is well-suited for this problem because:
   * AMD Processors
 * Dropped original CPU columns after encoding
 
+#### Memory (Storage)
+
+
 
 
 
