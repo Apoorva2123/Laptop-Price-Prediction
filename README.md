@@ -52,6 +52,9 @@ The laptop dataset is well-suited for this problem because:
 * Retained HDD and SSD due to higher correlation with price
 * Dropped low-impact storage features
 
+#### GPU
+
+
 
 
 
