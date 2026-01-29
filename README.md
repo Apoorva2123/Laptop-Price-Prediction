@@ -11,3 +11,7 @@ The laptop dataset is well-suited for this problem because:
 - Pricing depends on multiple interacting components such as CPU, RAM, storage, GPU, display quality, and operating system.
 - It provides an excellent opportunity to practice feature extraction from raw text data (e.g., CPU, memory, screen resolution).
 
+## Project Workflow
+### 1. Data Loading and Inspection
+
+
