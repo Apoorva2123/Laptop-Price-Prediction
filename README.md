@@ -5,4 +5,9 @@ This project builds a **machine learning–based laptop price prediction system*
 The notebook follows a **complete end-to-end pipeline**, including exploratory data analysis (EDA), detailed feature cleaning, feature engineering, model training, and evaluation using standard regression metrics.
 
 ## Why This Dataset?
+The laptop dataset is well-suited for this problem because:
+- It represents real market data with realistic pricing patterns.
+- It contains a mix of categorical and numerical features, requiring extensive preprocessing.
+- Pricing depends on multiple interacting components such as CPU, RAM, storage, GPU, display quality, and operating system.
+- It provides an excellent opportunity to practice feature extraction from raw text data (e.g., CPU, memory, screen resolution).
 
