@@ -76,6 +76,10 @@ The laptop dataset is well-suited for this problem because:
   * RAM, Weight, Touchscreen, IPS, PPI, HDD, SSD
  
 ### 5. Model Preparation
+* Features (`X`) separated from target (`y = log(Price)`)
+* Train-test split (85% training, 15% testing)
+* Categorical variables encoded using **OneHotEncoder**
+* Preprocessing and modeling combined using **Scikit-learn Pipelines**
 
 
 
