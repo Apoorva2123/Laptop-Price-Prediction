@@ -63,6 +63,10 @@ The laptop dataset is well-suited for this problem because:
   * Others / Linux / No OS
 * Dropped original OS column
 
+### 3. Exploratory Data Analysis (EDA)
+
+
+
 
 
 
