@@ -74,6 +74,9 @@ The laptop dataset is well-suited for this problem because:
 * Log-transformed target variable (`Price`) to reduce skewness
 * Selected high-impact numerical features:
   * RAM, Weight, Touchscreen, IPS, PPI, HDD, SSD
+ 
+### 5. Model Preparation
+
 
 
 
