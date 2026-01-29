@@ -4,3 +4,5 @@ This project builds a **machine learning–based laptop price prediction system*
 
 The notebook follows a **complete end-to-end pipeline**, including exploratory data analysis (EDA), detailed feature cleaning, feature engineering, model training, and evaluation using standard regression metrics.
 
+## Why This Dataset?
+
