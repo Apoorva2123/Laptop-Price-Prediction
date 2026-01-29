@@ -34,6 +34,13 @@ The laptop dataset is well-suited for this problem because:
 * Dropped redundant columns (`ScreenResolution`, `Inches`, `X_res`, `Y_res`)
 
 #### CPU
+* Extracted CPU names from raw text
+* Grouped processors into categories:
+  * Intel Core i3 / i5 / i7
+  * Other Intel Processors
+  * AMD Processors
+* Dropped original CPU columns after encoding
+
 
 
 
