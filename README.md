@@ -53,6 +53,8 @@ The laptop dataset is well-suited for this problem because:
 * Dropped low-impact storage features
 
 #### GPU
+* Extracted GPU brand from text
+* Removed irrelevant GPU information
 
 
 
