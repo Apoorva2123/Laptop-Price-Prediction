@@ -13,5 +13,11 @@ The laptop dataset is well-suited for this problem because:
 
 ## Project Workflow
 ### 1. Data Loading and Inspection
+* Dataset loaded using Pandas
+* Dataset shape, column names, and data types inspected
+* Checked for missing values and duplicate rows
+* Dropped unnecessary index column (`Unnamed: 0`)
+
+
 
 
