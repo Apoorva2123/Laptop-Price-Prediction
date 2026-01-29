@@ -42,6 +42,16 @@ The laptop dataset is well-suited for this problem because:
 * Dropped original CPU columns after encoding
 
 #### Memory (Storage)
+* Cleaned memory strings by removing units (`GB`, `TB`)
+* Split storage into two parts (primary and secondary)
+* Extracted storage types and sizes:
+  * HDD
+  * SSD
+  * Hybrid
+  * Flash Storage
+* Retained HDD and SSD due to higher correlation with price
+* Dropped low-impact storage features
+
 
 
 
