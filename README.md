@@ -33,6 +33,9 @@ The laptop dataset is well-suited for this problem because:
 * Computed **PPI (Pixels Per Inch)** using resolution and screen size
 * Dropped redundant columns (`ScreenResolution`, `Inches`, `X_res`, `Y_res`)
 
+#### CPU
+
+
 
 
 
