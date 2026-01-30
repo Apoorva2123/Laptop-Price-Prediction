@@ -82,6 +82,13 @@ The laptop dataset is well-suited for this problem because:
 * Preprocessing and modeling combined using **Scikit-learn Pipelines**
 
 ### 6. Models Trained
+The following regression models were implemented and compared:
+* Linear Regression
+* Ridge Regression
+* Lasso Regression
+* K-Nearest Neighbors Regressor
+* Decision Tree Regressor
+* Random Forest Regressor
 
 
 
