@@ -81,6 +81,7 @@ The laptop dataset is well-suited for this problem because:
 * Categorical variables encoded using **OneHotEncoder**
 * Preprocessing and modeling combined using **Scikit-learn Pipelines**
 
+### 6. Models Trained
 
 
 
