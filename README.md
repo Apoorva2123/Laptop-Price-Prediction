@@ -96,7 +96,7 @@ Each model was evaluated using:
 * **Mean Absolute Error (MAE)** – to measure average prediction error
 Predictions were compared against actual prices in log scale to ensure stability and fairness across models.
 
-
+## Technologies Used
 
 
 
