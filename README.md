@@ -97,6 +97,12 @@ Each model was evaluated using:
 Predictions were compared against actual prices in log scale to ensure stability and fairness across models.
 
 ## Technologies Used
+* Python
+* NumPy
+* Pandas
+* Matplotlib & Seaborn
+* Scikit-learn
+* Jupyter Notebook
 
 
 
