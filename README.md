@@ -107,7 +107,7 @@ Predictions were compared against actual prices in log scale to ensure stability
 ### Challenges Faced
 - **Messy text data:** Key features like CPU, storage, and screen resolution were embedded in raw text and required careful parsing and validation.
 - **Feature selection trade-offs:** Some extracted features had low impact on price and were intentionally dropped to reduce noise and improve model performance.
-- Skewed target variable: Laptop prices were highly skewed, requiring log transformation to stabilize training and improve predictions.
+- **Skewed target variable:** Laptop prices were highly skewed, requiring log transformation to stabilize training and improve predictions.
 
 ### Repository Structure
 * `Laptop_Prediction.ipynb` – Complete notebook with analysis, preprocessing, modeling, and evaluation
