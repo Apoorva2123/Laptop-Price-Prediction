@@ -105,7 +105,8 @@ Predictions were compared against actual prices in log scale to ensure stability
 * Jupyter Notebook
 
 ### Challenges Faced
-- Messy text data:
+- Messy text data: Key features like CPU, storage, and screen resolution were embedded in raw text and required careful parsing and validation.
+- 
 
 ### Repository Structure
 * `Laptop_Prediction.ipynb` – Complete notebook with analysis, preprocessing, modeling, and evaluation
