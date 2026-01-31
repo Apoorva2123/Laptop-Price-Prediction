@@ -104,6 +104,9 @@ Predictions were compared against actual prices in log scale to ensure stability
 * Scikit-learn
 * Jupyter Notebook
 
+### Challenges Faced
+
+
 ### Repository Structure
 * `Laptop_Prediction.ipynb` – Complete notebook with analysis, preprocessing, modeling, and evaluation
 * `README.md` – Project documentation
