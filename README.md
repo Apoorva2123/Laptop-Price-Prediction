@@ -114,7 +114,7 @@ Predictions were compared against actual prices in log scale to ensure stability
 * `README.md` – Project documentation
 
 ### Conclusion
-This project demonstrates **how careful data cleaning, feature engineering, and model selection significantly impact predictive performance**. By transforming raw laptop specifications into meaningful, model-ready features and systematically comparing multiple regression models, the project highlights the importance of preprocessing in real-world machine learning. It illustrates that attention to detail in handling textual and numerical data, along with proper feature encoding and target transformation, directly improves prediction accuracy.
+This project demonstrates **how careful data cleaning, feature engineering, and model selection significantly impact predictive performance**. By transforming raw laptop specifications into meaningful, model-ready features and systematically comparing multiple regression models, the project highlights the importance of preprocessing in real-world machine learning. It illustrates that attention to detail in handling textual and numerical data, along with proper feature encoding and target transformation, directly improves prediction accuracy. This end-to-end project reinforces essential skills in data analysis, machine learning modeling, and performance evaluation, providing a practical example that can be applied to similar structured data problems in industry.
 
 ### Acknowledgements
 Thank you for exploring this project. Feedback, suggestions, and improvements are always welcome—feel free to fork the repository.
