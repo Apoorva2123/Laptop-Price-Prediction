@@ -111,6 +111,9 @@ Predictions were compared against actual prices in log scale to ensure stability
 ## Conclusion
 This project demonstrates how **careful data cleaning, feature engineering, and model selection** significantly impact predictive performance. By transforming raw laptop specifications into meaningful features and comparing multiple regression models, the project provides a clear, practical example of applied machine learning on structured data.
 
+## Acknowledgements
+
+
 
 
 
