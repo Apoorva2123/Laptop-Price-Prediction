@@ -106,7 +106,7 @@ Predictions were compared against actual prices in log scale to ensure stability
 
 ### Challenges Faced
 - Messy text data: Key features like CPU, storage, and screen resolution were embedded in raw text and required careful parsing and validation.
-- 
+- Feature selection trade-offs:
 
 ### Repository Structure
 * `Laptop_Prediction.ipynb` – Complete notebook with analysis, preprocessing, modeling, and evaluation
