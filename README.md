@@ -104,6 +104,8 @@ Predictions were compared against actual prices in log scale to ensure stability
 * Scikit-learn
 * Jupyter Notebook
 
+## Repository Structure
+
 
 
 
