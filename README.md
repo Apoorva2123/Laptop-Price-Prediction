@@ -12,6 +12,9 @@ The laptop dataset is well-suited for this problem because:
 - It contains a mix of categorical and numerical features, requiring extensive preprocessing.
 - Pricing depends on multiple interacting components such as CPU, RAM, storage, GPU, display quality, and operating system.
 - It provides an excellent opportunity to practice feature extraction from raw text data (e.g., CPU, memory, screen resolution).
+- Pricing is influenced by complex interactions between features, mimicking real-world decision-making scenarios.
+
+The dataset includes outliers and high variability in prices, requiring careful model tuning.
 
 ## Project Workflow
 ### 1. Data Loading and Inspection
