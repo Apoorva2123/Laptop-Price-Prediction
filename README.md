@@ -1,5 +1,7 @@
 # Laptop Price Prediction using Machine Learning
 ## Introduction
+Ever wondered what really drives the price of a laptop — the processor, RAM, GPU, or brand name? This project explores how different technical specifications influence laptop pricing by building and comparing multiple machine learning regression models. From raw data to final predictions, the workflow demonstrates how real-world datasets can be transformed into actionable insights through data science.
+
 This project builds a **machine learning–based laptop price prediction system** using real-world laptop specifications. The objective is to analyze how hardware, display, and software features influence laptop pricing and to compare multiple regression models to identify the most effective approach.
 
 The notebook follows a **complete end-to-end pipeline**, including exploratory data analysis (EDA), detailed feature cleaning, feature engineering, model training, and evaluation using standard regression metrics.
