@@ -96,7 +96,7 @@ The following regression models were implemented and compared:
 * Random Forest Regressor
 
 ### 7. Evaluation Metrics
-Each model was evaluated using:
+Each model’s performance was assessed using:
 * **R² Score** – to measure explained variance
 * **Mean Absolute Error (MAE)** – to measure average prediction error
 Predictions were compared against actual prices in log scale to ensure stability and fairness across models.
