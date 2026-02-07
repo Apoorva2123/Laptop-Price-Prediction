@@ -99,7 +99,7 @@ The following regression models were implemented and compared:
 Each model’s performance was assessed using:
 * **R² Score** to evaluate how much variance in the data was explained.
 * **Mean Absolute Error (MAE)** to measure the average magnitude of prediction errors.
-Predictions were compared against actual prices in log scale to ensure stability and fairness across models.
+All predictions were evaluated against actual prices on a logarithmic scale to maintain stability and ensure fair comparison across models.
 
 ### Technologies Used
 * Python
